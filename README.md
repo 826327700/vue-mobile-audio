@@ -1,7 +1,7 @@
-##vue-mobile-audio
+## vue-mobile-audio
 基于vue的移动端音频播放器（语音条外观）
 
-##使用
+## 使用
 
 * npm install vue-mobile-audio
 ```javascript
@@ -19,8 +19,8 @@ Vue.use(audio)
 注：若显示时长，时长将替换提示文字
 
 
-##截图
+## 截图
 ![](./public/preview.png)
 
-##在线预览
+## 在线预览
 [demo](http://baidu.com "demo")
