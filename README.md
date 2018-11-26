@@ -8,6 +8,9 @@
 //main.js
 import audio from 'vue-mobile-audio'
 Vue.use(audio)
+
+//xxx.vue
+<m-audio :src="src"></m-audio>
 ```
 * 设置   
 
