@@ -1,7 +1,9 @@
 {
   "name": "vue-mobile-audio",
   "version": "0.1.0",
-  "private": true,
+  "private": false,
+  "main": "src/lib/audio.js",
+  "description": "it is a example npm",
   "scripts": {
     "serve": "vue-cli-service serve",
     "build": "vue-cli-service build"
@@ -27,5 +29,7 @@
     "> 1%",
     "last 2 versions",
     "not ie <= 8"
-  ]
+  ],
+  "author": "xiaobaozi",
+  "license": "ISC"
 }

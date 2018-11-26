@@ -17,6 +17,7 @@ src|string|无|音频播放地址（ogg,mp3,wav）
 text|string|轻触播放|播放器上的提示文字
 showDuration|boolean|true|是否显示时长
 block|boolean|true|播放器是否为块级元素
+
 注：若显示时长，时长将替换提示文字   
 
 
