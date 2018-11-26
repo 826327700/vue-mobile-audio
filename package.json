@@ -1,6 +1,6 @@
 {
   "name": "vue-mobile-audio",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "main": "src/lib/audio.js",
   "description": "it is a example npm",
   "scripts": {
@@ -30,5 +30,9 @@
     "not ie <= 8"
   ],
   "author": "xiaobaozi",
-  "license": "ISC"
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/826327700/vue-mobile-audio"
+  }
 }
