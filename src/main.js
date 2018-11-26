@@ -3,6 +3,10 @@ import App from './App.vue'
 import router from './router'
 import store from './store'
 
+import audio from './lib/audio'
+
+Vue.use(audio)
+
 Vue.config.productionTip = false
 
 new Vue({
