@@ -1,7 +1,6 @@
 {
   "name": "vue-mobile-audio",
   "version": "0.1.0",
-  "private": false,
   "main": "src/lib/audio.js",
   "description": "it is a example npm",
   "scripts": {

@@ -22,7 +22,7 @@ block|boolean|true|播放器是否为块级元素
 
 
 ## 截图
-![](./public/preview.png)
+![](https://github.com/826327700/vue-mobile-audio/blob/master/dist/preview.png)
 
 ## 在线预览
 [demo](https://826327700.github.io/vue-mobile-audio/dist/#/ "demo")
